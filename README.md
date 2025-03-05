@@ -6,7 +6,7 @@ This project uses an Arduino to control a motor driver (L298N or similar) via a 
 ## Components Required
 - Arduino Board
 - Bluetooth Module (HC-05 or HC-06)
-- Motor Driver Module (L298N or similar)
+- Motor Driver Module (L293d or similar)
 - DC Motors
 - Power Supply (Battery pack or adapter)
 - Connecting Wires
