@@ -1,7 +1,7 @@
 # Bluetooth-Controlled Motor Driver
 
 ## Overview
-This project uses an Arduino to control a motor driver (L298N or similar) via a Bluetooth module. Commands sent from a Bluetooth-enabled device control the movement of the motors.
+This project uses an Arduino to control a motor driver (L293d or similar) via a Bluetooth module. Commands sent from a Bluetooth-enabled device control the movement of the motors.
 
 ## Components Required
 - Arduino Board
